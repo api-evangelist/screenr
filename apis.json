@@ -1,0 +1,57 @@
+{
+    "name": "Screenr",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screenr.png",
+    "tags": [
+        "have api",
+        "screen recording",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/screenr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Screenr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screenr.png",
+            "humanURL": "http:\/\/business.screenr.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/screenr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/screenr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.screenr.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.screenr.com\/rss"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/business.screenr.com\/api\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/screenr"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/business.screenr.com"
+        }
+    ]
+}
